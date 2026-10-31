@@ -1,0 +1,7 @@
+# Exact dependency versions were not recorded in the original submission.
+pandas
+openpyxl
+mlxtend
+prefixspan
+jupyterlab
+ipykernel
